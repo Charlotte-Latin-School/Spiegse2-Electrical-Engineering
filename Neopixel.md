@@ -1,2 +1,2 @@
 # Neopixel Board Documentation
-Will be updated in due time
+The purpose of this project is to learn how to surface mount solder smaller and larger components, as well as combining phyiscal components with arduino and a microcontroller, learning how to program in C++, and using the neopixel library.
