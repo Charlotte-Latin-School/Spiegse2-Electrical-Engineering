@@ -14,6 +14,8 @@
 | RV1 | Potentiometer | 50k |
 | U1 | 555 Timer | LM555xM |
 
+This project allows students to better learn how to surface mount solder, using a 555 timer and a potentionmeter to control a rapidly flashing LED.
+
 Pictures below:  
 
 ![](./Images/Screenshot%202026-11-06%20103435.png)
