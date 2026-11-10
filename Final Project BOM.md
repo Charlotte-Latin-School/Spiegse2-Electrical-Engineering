@@ -1,4 +1,4 @@
-# [Insert Project Title Here]
+# [KSP Flight Controller]
 
 ## 1. Project Overview & Research
 * **Project Choice:** [Provide a description of your final project choice, why it was chosen, and what a successful project would do]
