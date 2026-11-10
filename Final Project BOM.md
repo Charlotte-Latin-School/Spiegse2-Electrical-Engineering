@@ -1,5 +1,5 @@
 # [KSP Flight Controller]
-TEMPLATE 2
+TEMPLATE 3
 ## 1. Project Overview & Research
 * **Project Choice:** [Provide a description of your final project choice, why it was chosen, and what a successful project would do]
 * **Inspiration & Attribution:** [Provide attribution of the project serving as your inspiration, including the original author/maker and the source (e.g., Adafruit, Instructables)]
