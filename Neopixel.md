@@ -5,7 +5,8 @@ The purpose of this project is to learn how to surface mount solder smaller and 
 | ---- | --- | --- | --- | --- |
 | ![Flat Components Soldered](./Images/Screenshot%202026-11-09%20085402.png) | ![Headers Soldered](./Images/Screenshot%202026-11-09%20085407.png) | ![Solder Joints On Backside of Board](./Images/Screenshot%202026-11-09%20085413.png) | ![All Components Soldered](./Images/Screenshot%202026-11-09%20085425.png) | ![Working Board](./Images/Screenshot%202026-11-09%20085431.png) |
 
-Code Embed: '// Code written by Ethan Spiegler 2026
+Code Embed: '''
+// Code written by Ethan Spiegler 2026
 #include <Adafruit_NeoPixel.h>
 
 #define LED_PIN      D3
@@ -93,7 +94,8 @@ void loop() {
   strip.clear();
   strip.show();
   delay(500);
-}'
+}
+'''
 
 
 Video Embed:
