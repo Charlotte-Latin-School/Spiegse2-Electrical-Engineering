@@ -1,5 +1,5 @@
 # Neopixel Board Documentation
-The purpose of this project is to learn how to surface mount solder smaller and larger components, as well as combining phyiscal components with arduino and a microcontroller, learning how to program in C++, and using the neopixel library.
+The purpose of this project is to learn how to surface mount solder smaller and larger components, as well as combining phyiscal components with arduino and a microcontroller, learning how to program in C++, and using the neopixel library. This board started as a basic PCB, without any components. The first three components soldered are the capacitors and resistor, all three at the same time using reflow soldering. The next two components, the SMS Neopixels, are soldered with reflow as well. The fiinal two components are the seven pin headers, which are soldered using a regular soldering iron and solder wire. After soldering, the code is written using multiple for() functions as loops, slowly fading in and fading out three different colors four times per one cycle in the main loop. After soldering and programming the EPS32C6, the ESP32C6 is plugged into the board and the project is complete.
 
 | Flat Components Soldered | Headers Soldered | Solder Joints (Backside) | All Components Soldered | Working Board |
 | ---- | --- | --- | --- | --- |
@@ -102,3 +102,5 @@ void loop() {
 
 Video Embed:
 [Click here to view the video of the working board](https://github.com/Charlotte-Latin-School/Spiegse2-Electrical-Engineering/issues/1#issue-6287285255)
+
+Several skills were reinforced with this project; a refresher on how to program in C++, more practice with surface mount soldering, and more practice with through hole soldeirng. I think soldering the Neopixels with reflow definitely helped me better understand how important it is to position the component as close to the perfect position as possible, as the pads for the Neopixels were not the largest and the Neopixels were a pretty large component. The programming aspect of this project was a really nice refresher, but it wasn't too challenging as I have worked with Neopixels in C++ a good amount in the past.
