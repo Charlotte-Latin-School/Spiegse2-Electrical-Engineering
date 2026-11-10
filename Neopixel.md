@@ -1,7 +1,16 @@
 # Neopixel Board Documentation
-The purpose of this project is to learn how to surface mount solder smaller and larger components, as well as combining phyiscal components with arduino and a microcontroller, learning how to program in C++, and using the neopixel library. This board started as a basic PCB, without any components. The first three components soldered are the capacitors and resistor, all three at the same time using reflow soldering. The next two components, the SMS Neopixels, are soldered with reflow as well. The fiinal two components are the seven pin headers, which are soldered using a regular soldering iron and solder wire. After soldering, the code is written using multiple for() functions as loops, slowly fading in and fading out three different colors four times per one cycle in the main loop. After soldering and programming the EPS32C6, the ESP32C6 is plugged into the board and the project is complete.
+The purpose of this project is to learn how to surface mount solder smaller and larger components, as well as combining phyiscal components with arduino and a microcontroller, learning how to program in C++, and using the neopixel library. This board started as a basic PCB, without any components. The first three components soldered are the capacitors and resistor, all three at the same time using reflow soldering. The next two components, the SMS Neopixels, are soldered with reflow as well. The fiinal two components are the seven pin socket headers, which are soldered using a regular soldering iron and solder wire. After soldering, the code is written using multiple for() functions as loops, slowly fading in and fading out three different colors four times per one cycle in the main loop. After soldering and programming the EPS32C6, the ESP32C6 is plugged into the board and the project is complete.
 
-| Flat Components Soldered | Headers Soldered | Solder Joints (Backside) | All Components Soldered | Working Board |
+** BOM **
+| Component | Specification | Quantity |
+| :---: | :---: | :---: |
+| SMS Neopixels | WS2812B | 2 |
+| SMS Resistors | 330 Ω | 1 |
+| SMS Capacitors | 0.1 µF | 2 |
+| Socket Headers | 1x7 Pin | 2 |
+
+
+| Flat Components Soldered | Socket Headers Soldered | Solder Joints (Backside) | All Components Soldered | Working Board |
 | ---- | --- | --- | --- | --- |
 | ![Flat Components Soldered](./Images/Screenshot%202026-11-09%20085402.png) | ![Headers Soldered](./Images/Screenshot%202026-11-09%20085407.png) | ![Solder Joints On Backside of Board](./Images/Screenshot%202026-11-09%20085413.png) | ![All Components Soldered](./Images/Screenshot%202026-11-09%20085425.png) | ![Working Board](./Images/Screenshot%202026-11-09%20085431.png) |
 
