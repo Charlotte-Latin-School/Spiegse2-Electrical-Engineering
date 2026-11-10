@@ -118,4 +118,6 @@ void loop() {
 ## Video Embed
 [Click here to view the video of the working board](https://github.com/Charlotte-Latin-School/Spiegse2-Electrical-Engineering/issues/1#issue-6287285255)
 
+## Reflection
+
 Several skills were reinforced with this project; a refresher on how to program in C++, more practice with surface mount soldering, and more practice with through hole soldeirng. I think soldering the Neopixels with reflow definitely helped me better understand how important it is to position the component as close to the perfect position as possible, as the pads for the Neopixels were not the largest and the Neopixels were a pretty large component. The programming aspect of this project was a really nice refresher, but it wasn't too challenging as I have worked with Neopixels in C++ a good amount in the past.
